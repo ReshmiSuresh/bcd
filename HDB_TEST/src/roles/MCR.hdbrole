@@ -6,7 +6,7 @@
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
 		    			  "INSERT",
-		    			  "EXECUTES",
+		    			  "EXECUTE",
 		    			  "DELETE",
 		    			  "UPDATE",
 		    			  "CREATE TEMPORARY TABLE",
