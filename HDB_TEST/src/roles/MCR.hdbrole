@@ -5,7 +5,7 @@
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
-		    			  "INSERT2019",
+		    			  "INAppleSEROrangeT20Fall19",
 		    			  "EXECUTE2019",
 		    			  "DELETE",
 		    			  "UPDATE",
